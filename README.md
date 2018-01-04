@@ -22,10 +22,12 @@ Included file(s) for testing:
     * File containing an unsorted list of names, each ending with a last name
       and may have multiple names and/or initials before it.
       e.g. 
-    N D Street
-    Faye King
-    Lenny R Graph
-    I M Board
+      ```
+      N D Street
+      Faye King
+      Lenny R Graph
+      I M Board
+      ```
 
 ## Credits
 Author: [Geoffrey Sessums](http://www.geoffreysessums.com)

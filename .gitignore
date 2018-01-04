@@ -1,2 +1,3 @@
-# Ignore Temporary Files
+# Ignore temporary and output files
 *~
+*.out

@@ -1,6 +1,6 @@
 # NameSort 
 #### Description:
-Written in Bash, NameSort is a simple script that takes an file of unsorted 
+Written in Bash, NameSort is a simple script that takes a file of unsorted 
 names, each ending with a last name and may have multiple names and/or initials 
 before it (unfortunately it varies), then produces a file of names each beginning
 with the first name but sorted by the last name.

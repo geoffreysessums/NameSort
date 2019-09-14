@@ -1,22 +1,25 @@
-# NameSort 
-#### Description:
-Written in Bash, NameSort is a simple script that uses awk to take a file of unsorted 
-names, each ending with a last name and may have multiple names and/or initials 
-before it (unfortunately it varies), then produces a file of names each beginning
-with the first name but sorted by the last name.
+# NameSort
+
+Geoffrey Sessums  
+CS 3423 Systems Programming - Fall 2017  
+Language(s): BASH, AWK  
+
+## Description
+
+NameSort processes a file of unsorted names, each ending with a last name that may have multiple names and/or initials 
+before it (unfortunately it varies), then produces a file of names each beginning with the first name but sorted by the last name.
 
 ## Installation
-Clone the repository wherever you like (e.g. `~/Projects/NameSort`):
-```bash
-git clone https://github.com/gsessums/NameSort.git
-```
+
+Clone the repository wherever you like (e.g. `~/Projects/NameSort`):  
+`git clone https://github.com/gsessums/NameSort.git`
 
 ## Usage
-```bash
-./nameSort.bash
-```
+
+`./nameSort.bash`
 
 ## Testing
+
 Included file(s) for testing:
 * unsortedNames.txt 
     * File containing an unsorted list of names, each ending with a last name
@@ -30,12 +33,14 @@ Included file(s) for testing:
       ```
 
 ## Credits
-Author: [Geoffrey Sessums](http://www.geoffreysessums.com)
+
+Author: Geoffrey Sessums
 
 ## License
+
 MIT License
 
-Copyright (c) 2018 Geoffrey Sessums
+Copyright (c) 2017 Geoffrey Sessums
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

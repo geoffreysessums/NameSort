@@ -9,6 +9,9 @@ Language(s): BASH, AWK
 NameSort processes a file of unsorted names, each ending with a last name that may have multiple names and/or initials 
 before it (unfortunately it varies), then produces a file of names each beginning with the first name but sorted by the last name.
 
+## What I learned
+
+* How to use BASH and AWK to process a file of unsorted names into an output file of sorted names.
 ## Installation
 
 Clone the repository wherever you like (e.g. `~/Projects/NameSort`):  
